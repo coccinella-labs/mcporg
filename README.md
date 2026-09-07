@@ -3,3 +3,13 @@
 </p>
 
 github org mapping for mcp.
+
+Swift CLI (`MCPGitHubOrgMapper`, macOS 12+, Swift 6.2) mapping GitHub organizations for MCP use.
+
+## Run
+
+```bash
+swift build -c release
+.build/release/MCPGitHubOrgMapper --help
+swift test
+```
