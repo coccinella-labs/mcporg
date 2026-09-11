@@ -37,7 +37,7 @@ Should show `minos 12.0` confirming macOS 12.0 minimum.
 ## Local Setup
 
 ```bash
-git clone https://github.com/harpertoken/mcp-org.git
+git clone https://github.com/coccinella-labs/mcporg.git
 cd mcp-org
 swift build
 ```
