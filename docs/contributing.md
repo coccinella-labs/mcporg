@@ -5,7 +5,7 @@ We welcome contributions! Currently, we're accepting bug fixes and security patc
 ## Development Setup
 
 1. Ensure you have Swift 6.2+ installed
-2. Clone the repo: `git clone https://github.com/harpertoken/mcp-org.git`
+2. Clone the repo: `git clone https://github.com/coccinella-labs/mcporg.git`
 3. Build: `swift build`
 4. Test: `swift run MCPGitHubOrgMapper`
 

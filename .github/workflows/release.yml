@@ -37,5 +37,5 @@ jobs:
         with:
           add: VERSION
           message: "chore: update VERSION to ${{ needs.release.outputs.tag_name }}"
-          committer_name: harpertoken/rag
+          committer_name: coccinella-labs/rag
           committer_email: 237646224+harper-release-bot@users.noreply.github.com
